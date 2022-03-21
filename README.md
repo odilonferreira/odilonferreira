@@ -12,7 +12,17 @@
   <a href="https://www.instagram.com/odilonferr/">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>
+  <a href="https://twitter.com/wore_">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+  </a>
 </p>
+
+<!-- <h4>
+
+🧰 Toolbox
+
+</h4> -->
+
 
 #### 📫 How to reach me:
 <img align="right" src="https://komarev.com/ghpvc/?username=odilonferreira&style=flat-square"/>
